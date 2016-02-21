@@ -1,0 +1,22 @@
+commons:
+
+login_user:
+  email:    your@email.com
+  password: passphrase
+
+layouts:
+  toolbar:
+    toolbar_title: アプリケーションタイトル
+
+
+  login_form:
+    textView3: ログイン
+    email:     editText9
+    password:  editText10
+    btn_login: btn_login
+    btn_new_register:    新規登録
+
+messages:
+  txt_password_forget: パスワードを忘れた方は再設定してください
+  tv_user_register:    はじめてのご利用はユーザー登録から始めてください
+  txt_express_mykarte: 「アプリケーション」の説明はこちら
